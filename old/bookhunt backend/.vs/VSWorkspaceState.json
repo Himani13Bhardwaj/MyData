@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bookhunt",
+    "\\bookhunt\\account",
+    "\\bookhunt\\account\\api"
+  ],
+  "SelectedNode": "\\bookhunt\\account\\api\\serializers.py",
+  "PreviewInSolutionExplorer": false
+}

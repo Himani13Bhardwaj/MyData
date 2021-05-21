@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0a061d0-00b4-4f9c-9afa-46007be72971" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bookhunt/Best-Laid-Plans.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Best-Laid-Plans_4w4kCIM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Fast-as-the-Wind.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Godhunter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Healing-Her-Heart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/January-in-Atlantis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Pierced.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Pride-and-Prejudice.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Screenshot_from_2020-09-22_18-38-43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Screenshot_from_2020-09-22_18-38-43_Flp6QAo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Screenshot_from_2020-09-22_18-38-43_LiMFVmZ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Screenshot_from_2020-09-22_18-38-43_tZLMHOI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/The-After-House.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/The-Red-Diamond.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Undone.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Undone_5TZGvVd.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/Werewolves-of-New-York.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/author/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookhunt/author/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/bankelal_comic_collections__Raj_Comics__PDFDrive_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/book/migrations/0002_auto_20201001_0346.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookhunt/book/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/book/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookhunt/book/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/bookhunt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookhunt/bookhunt/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/bookhunt/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/genre/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/genre/migrations/0002_auto_20201108_1609.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/genre/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bookhunt/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_0ZLC4XK.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_1E1tfkk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_45XNGdL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_5OdJfbm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_6yMWVAq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_8fTMRBI.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_Aqrn5nY.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_BlywarZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_CScSozd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_E8XBhk6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_HMSnDjK.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_MljWJBn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_SncuZBD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_V5Q3a01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_ViKTWkJ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_Wd82W77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_ZHJpBLk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_cROyN9a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_gRthcAb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_skcXBe6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/Book_IMG_1754-1-e1481474081467-980x1280_xygpNYK.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_1_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_2_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_3_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_4_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_5_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_6_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_7_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/book/Chapter_8_After_the_Cure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/image/Book_IMG_1754-1-e1481474081467-980x1280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/image/userIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/static/image/young-user-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/usercollection/migrations/0002_usercollection_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/usercollection/migrations/0003_auto_20201001_0350.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_2aWpivq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_2vEetnd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_5xABgnI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_7aaABTd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_AZbqkp9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_Ahd3Hyn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_B9o8qwI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_IoYDek2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_LIH3ER9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_M1TF7Rw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_PCLQlBq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_Qdi9kXM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_S7X6kQX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_S9MzgBj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_VODFdye.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_f2amqZQ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_lB0XXjG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_mh3F2JZ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_mtcT34C.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_nDKOrtu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_o75Mo3Y.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_sBU6BtJ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_u5sVFHp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookhunt/young-user-icon_yb7xwUw.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bookhunt" />
+  </component>
+  <component name="ProjectId" id="1gh5ChcKDKDUbVkgVQTcV0y2Dsu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bookhunt" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0a061d0-00b4-4f9c-9afa-46007be72971" name="Default Changelist" comment="" />
+      <created>1598553857722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598553857722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601222083811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601222083811" />
+    <state x="97" y="97" width="1407" height="666" key="DiffContextDialog" timestamp="1604823044942">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1601222269175" />
+    <state x="97" y="97" width="1407" height="666" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1604823044942" />
+    <state x="572" y="174" key="FileChooserDialogImpl" timestamp="1604899274362">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599152261346" />
+    <state x="572" y="174" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1604899274362" />
+    <state x="618" y="139" key="RollbackChangesDialog" timestamp="1604895047547">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="593" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601554300679" />
+    <state x="618" y="139" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1604895047547" />
+  </component>
+</project>
